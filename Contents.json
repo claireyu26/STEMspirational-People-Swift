@@ -1,0 +1,17 @@
+//
+//  STEMspirationalPeopleNestedStacksApp.swift
+//  STEMspirationalPeopleNestedStacks
+//
+//  Created by Student on 6/20/24.
+//
+
+import SwiftUI
+
+@main
+struct STEMspirationalPeopleNestedStacksApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
